@@ -1,0 +1,85 @@
+# SVN
+.svn
+repo/
+
+# VIM locks
+*.swp
+
+# LibreOffice locks
+.~lock.*#
+
+*.tmp
+
+# Word temporary
+~$*.doc*
+#
+# # Excel temporary
+~$*.xls*
+#
+# # Excel Backup File
+*.xlk
+
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings
+bin/
+.recommenders
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+#Target
+iMage/target/
+iMage/jmjrst.main/target/
+iMage/iMage.edge-detection-sobel/target/
+iMage/iMage.edge-detection-sobel-cli/target/
+iMage/iMage.hallo_plugin/target/
+iMage/iMage.bundle/target/
+iMage/iMage.edge-detection-sobel-gui/target/
+iMage/iMage.stateMachine/target/
+iMage/iMage.accounting/target/
+iMage/jmjrst.complex.test/target/
+iMage/iMage.edge-detection-sobel-parallel/target/
+
+# LaTex
+*.acn
+*.acr
+*.alg
+*.aux
+*-blx.bib
+*.bbl
+*.blg
+*.brf
+*.dvi
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.glsdef*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lol
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.nav
+*.out
+*.ps
+*.run.xml
+*.snm
+*.synctex.gz
+*.tdo
+*.toc
+*.tex
+*.glsdefs
+*.jpg
