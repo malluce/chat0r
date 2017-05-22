@@ -82,4 +82,4 @@ iMage/iMage.edge-detection-sobel-parallel/target/
 *.toc
 *.tex
 *.glsdefs
-*.jpg
+*.jpg /target

@@ -6,5 +6,13 @@ package rn.chat.logic.http;
  *
  */
 public class MyHttpRequest {
-	private String query;
+	protected String query;
+	
+	/**
+	 * Getter for the query string.
+	 * @return the query as string
+	 */
+	public String getQuery() {
+		return query;
+	}
 }
