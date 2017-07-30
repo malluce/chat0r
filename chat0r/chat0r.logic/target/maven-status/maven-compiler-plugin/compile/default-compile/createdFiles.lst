@@ -1,6 +1,0 @@
-rn\chat\logic\http\MyHttpGetRequest.class
-rn\chat\logic\http\MyHttpPostRequest.class
-rn\chat\logic\http\MyHttpRequest.class
-rn\chat\logic\tcp\TcpConnector.class
-rn\chat\logic\io\Reader.class
-rn\chat\logic\io\Writer.class
