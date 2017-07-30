@@ -12,7 +12,8 @@ public class MyHttpGetRequest extends MyHttpRequest {
 	 * @param resource the resource to request
 	 */
 	public MyHttpGetRequest(String resource) {
-		query = "GET /" + resource + " HTTP/1.1\n" + "Host: i72tmdjango.kit.edu\n\n"; 
+		String lineSep = System.lineSeparator();
+		query = "GET /" + resource + " HTTP/1.1" + lineSep + "Host: i72tmdjango.tm.kit.edu" + lineSep + lineSep; 
 	}
 	
 }
