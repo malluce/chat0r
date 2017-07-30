@@ -26,25 +26,13 @@ repo/
 .settings
 bin/
 .recommenders
+.checkstyle
 
 # Mac
 .DS_Store
 
 # Windows
 Thumbs.db
-
-#Target
-iMage/target/
-iMage/jmjrst.main/target/
-iMage/iMage.edge-detection-sobel/target/
-iMage/iMage.edge-detection-sobel-cli/target/
-iMage/iMage.hallo_plugin/target/
-iMage/iMage.bundle/target/
-iMage/iMage.edge-detection-sobel-gui/target/
-iMage/iMage.stateMachine/target/
-iMage/iMage.accounting/target/
-iMage/jmjrst.complex.test/target/
-iMage/iMage.edge-detection-sobel-parallel/target/
 
 # LaTex
 *.acn
