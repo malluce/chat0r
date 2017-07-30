@@ -28,6 +28,10 @@ bin/
 .recommenders
 .checkstyle
 
+#Maven
+*target/
+
+
 # Mac
 .DS_Store
 
